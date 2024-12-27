@@ -51,9 +51,9 @@ With a proven track record of delivering results, I am always eager to contribut
 
 ## 📬 Get in Touch  
 I’d love to hear from you! Feel free to reach out for collaboration, inquiries, or just to say hello:  
-- 📧 **Email**: [your.email@example.com]  
-- 🌐 **Website**: [yourwebsite.com]  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 📧 **Email**:  firumaruthadukkam@gmail.com 
+- 🌐 **Website**: [My website](https://mohd-firoz.github.io/personal-website)  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)  
 
 ---
