@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio 👋  
+````````# Welcome to My GitHub Portfolio 👋  
 
 ## 👨‍💻 About Me  
 Hello! I’m **Muhammed Firoz M.A.**, a passionate and results-driven professional with a diverse skill set spanning:  
@@ -47,14 +47,13 @@ With a proven track record of delivering results, I am always eager to contribut
 
 ### Let’s make your vision a reality!  
 
----
+---          
 
 ## 📬 Get in Touch  
 I’d love to hear from you! Feel free to reach out for collaboration, inquiries, or just to say hello:  
 - 📧 **Email**:  firumaruthadukkam@gmail.com 
-- 🌐 **Website**: [My website](https://mohd-firoz.github.io/personal-website)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)  
+- 🌐 **Website**: [My Personal Website](https://mohd-firoz.github.io/personal-website)  
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-firoz-m-a-bb885412b/)  
 
 ---
 
