@@ -87,20 +87,3 @@ I appreciate you taking the time to explore my work. Let’s connect and build s
 
 ---
 
-### 💬 Testimonials:
-
-_"Working with Muhammed Firoz was a game-changer for our business. His expertise in SEO and digital marketing helped us rank on the first page of Google in just a few months!"_  
-— **Client from UAE**
-
-_"The website designed by Muhammed Firoz significantly improved our customer engagement and helped us increase online sales by 30%."_
-— **Client from India**
-
----
-
-### SEO Optimization Considerations:
-1. **Rich Content**: Strategic use of keywords like "Web Development", "SEO", "Creative Design", and "Digital Marketing" for SEO purposes.
-2. **Structured Headings**: Organized content with SEO-friendly heading tags like `##` and `###` to improve search engine rankings.
-3. **Internal Links**: Added links to your **personal website** and **LinkedIn** for additional SEO juice and to provide visitors with easy navigation to your professional pages.
-4. **Social Proof**: Added testimonials section to enhance credibility and increase engagement.
-
----
